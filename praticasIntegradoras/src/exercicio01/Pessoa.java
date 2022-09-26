@@ -44,7 +44,7 @@ public class Pessoa {
         return ("Nome: " + this.nome + "\n" +
         "Idade: " + this.idade + "\n" +
         "Peso: " + this.peso + "\n" +
-        "Altura: " + this.altura + "cm");
+        "Altura: " + (this.altura != 0 ? this.altura : 170) + "cm");
     }
 
 }
