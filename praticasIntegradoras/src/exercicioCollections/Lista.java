@@ -9,7 +9,7 @@ import java.util.List;
 public class Lista {
     public static void main(String[] args) {
         List<Pessoa> listaArray = new ArrayList<>();
-        List<Pessoa> listaLinked = new LinkedList<>();
+        LinkedList<Pessoa> listaLinked = new LinkedList<>();
 
         listaArray.add(new Pessoa("Rosalia", 40, "fht67"));
         listaArray.add(new Pessoa("Ro", 35, "fht67"));
