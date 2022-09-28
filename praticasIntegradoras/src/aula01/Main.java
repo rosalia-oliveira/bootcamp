@@ -24,6 +24,7 @@ public class Main {
         System.out.println("Com a temperatura: " + lowestTemperature);
         System.out.println("Cidade com a temperatura mais alta: " + cityHighestTemperature);
         System.out.println("Com a temperatura: " + highestTemperature);
+
     }
 
 }
