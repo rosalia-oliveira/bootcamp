@@ -1,4 +1,4 @@
-package exercicioPratico;
+package exercicioCorridaNaSelva;
 
 public class CircuitoAvancado extends Circuito {
     private final double VALOR_MINIMO  = 2800 ;

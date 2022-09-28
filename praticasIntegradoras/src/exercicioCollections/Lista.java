@@ -1,6 +1,6 @@
 package exercicioCollections;
 
-import exercicio01.Pessoa;
+import exerciciosPOOJavaII.pratica01.Pessoa;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

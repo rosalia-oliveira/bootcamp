@@ -1,7 +1,5 @@
 package exercicioCollections;
 
-import exercicio01.Pessoa;
-
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;

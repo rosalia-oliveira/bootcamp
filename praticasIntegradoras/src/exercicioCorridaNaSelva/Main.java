@@ -1,4 +1,4 @@
-package exercicioPratico;
+package exercicioCorridaNaSelva;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class Main {
         inscricoes.add(inscricao1);
 
 //        Participante 2
-        Participante participante2 = new Participante("16734", "Ro", "Oliveira", 40, "99999999", "88888888", "AB");
+        Participante participante2 = new Participante("16734", "Ro", "Oliveira", 19, "99999999", "88888888", "AB");
         Circuito circuitoParticipante2 = new CircuitoAvancado();
         Inscricao inscricao2 = new Inscricao(participante2, circuitoParticipante2);
 

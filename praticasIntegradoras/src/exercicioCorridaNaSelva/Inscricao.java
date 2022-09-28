@@ -1,4 +1,4 @@
-package exercicioPratico;
+package exercicioCorridaNaSelva;
 
 public class Inscricao {
     private Participante participante;

@@ -1,4 +1,4 @@
-package exercicio01;
+package exerciciosPOOJavaII.pratica01;
 
 public class Main {
 
